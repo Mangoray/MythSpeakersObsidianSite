@@ -2,7 +2,7 @@
 title: Welcome to the Myth-Speaker Campaign
 ---
 
-# Welcome to the World of Myth-Speakers
+# Welcome to the World of Myth-Speakers!
 
 Welcome to our Pathfinder 2e campaign archive! This site contains the collected knowledge and adventures of our journey through a world where myths come alive and ancient stories shape reality.
 
