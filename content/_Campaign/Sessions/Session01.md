@@ -184,9 +184,3 @@ Here's a cleaned-up, organized version of your session note with Obsidian best p
 > ```
 
 This structure keeps notes scannable and aligns with Obsidian's "linking knowledge" philosophy.
-
-<hr class="__chatgpt_plugin">
-
-### role::user
-
-Try again, 
