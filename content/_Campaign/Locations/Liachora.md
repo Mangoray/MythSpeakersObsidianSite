@@ -1,0 +1,5 @@
+---
+tags:
+  - Location
+---
+**[Liachora](https://pathfinderwiki.com/wiki/Liachora)** was the capital of the [Iblydan archipelago](https://pathfinderwiki.com/wiki/Iblydos "Iblydos") city-state of [Pol-Liachora](https://pathfinderwiki.com/wiki/Pol-Liachora "Pol-Liachora") that also included the city of [Aelyosos](https://pathfinderwiki.com/wiki/Aelyosos "Aelyosos"). It was destroyed by the [thalassic behemoth](https://pathfinderwiki.com/wiki/Thalassic_behemoth "Thalassic behemoth") [Ousmariku](https://pathfinderwiki.com/wiki/Ousmariku "Ousmariku") at the beginning of the [Age of Lost Omens](https://pathfinderwiki.com/wiki/Age_of_Lost_Omens "Age of Lost Omens"), in a battle during which many Iblydan [hero-gods](https://pathfinderwiki.com/wiki/Hero-god "Hero-god") were killed. Its citizens were either killed in the attack or fled to Aelyosos, which became the city-state's inheritor-capital. The ruins of Liachora have since been claimed by [sedacthys](https://pathfinderwiki.com/wiki/Sedacthy "Sedacthy").
