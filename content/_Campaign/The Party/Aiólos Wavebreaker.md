@@ -13,30 +13,7 @@ A young [[PF2Data/Journals/PF2e Journals/Ancestries/Centaur|Centaur]] [[PF2Data/
 # Appearance
 From the waist up, he is lean and athletic, with sun-bronzed skin and a build built for speed. His dark-brown hair is shaven close on the sides, contrasting sharply with dreadlocks gathered into a practical ponytail atop his head.  He has high cheekbones and a strong jawline. Deep, warm brown eyes with a hint of gold.
 
-Below the waist, the body of a Buckskin Bay horse flowed seamlessly from his human torso. A golden coat flowing into darkened to black on his strong legs.Aiólos
-
-```statblock
-# Config
-render: true
-layout: Basic Pathfinder 2e Layout
-columns: 2
-columnWidth: 800
-
-# Start statblock
-creature: Centaur
-name: Aiólos Wavebreaker
-player: true
-languages: Common, Fey
-speed: 35ft.
-trait_01: [[Fleetwind Centaur]]
-trait_02: [[Humanoid]]
-trait_03: [[Beast]]
-skills:
-  - name: "Skills"
-    desc: "Acrobatics +8, Athletics +7, Deception +4, Intimidation +4, Lore: Legendary Beast +4, Medicine +6, Nature +6, Survival +6"
-abilityMods: [16(+3),16(+3),10(+0),10(+0),16(+3),10(+0)]
-
-```
+Below the waist, the body of a Buckskin Bay horse flowed seamlessly from his human torso. A golden coat flowing into darkened to black on his strong legs.
 
 ## Roleplaying Hooks
 
