@@ -9,4 +9,4 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-content/_Campaign/zz_templates
+content/_Campaign/zz_templates/
