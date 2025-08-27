@@ -62,15 +62,18 @@ tags:
    - **Critical Task**: Visit Cyclops Undyl to apply.
 
 3. **Team Formation**:  
-   - Party joins Terpsime's team: *Mei (captain), Nawel (fisher), Aiólos (captain), Iu'yuan (fisher)*.  
-	   - Echo stays on shore.
+- The party heads to 'The Kylix' ward of the city. Iconography and banners of the Phoenix are displayed around the city.
+	- A Pyrefowl crosses their path.
+	- Aiólos picks up a feather, which still has some embers at the end.
+	- [[Iu'yuan]] hands some rations to the bird.
+- The Team finishes the application in [[Undyl | Undyl's]] office.
    - Rival team *Golden Pegasi* (led by Ataiosiphon):  
      - [[Yphani]] (cyclops herder), [[Rhetienn]] (centaur brewer), [[Mellita]] (weaver), [[Sappil]] (Vishkanya), [[Phel]].
  - Snake headed person with green eyes, snake-like eyes, and a lyre on his back. Looks up at the sky, and we (the audience) see the tiniest speck of fire far, far away.
 
 The Next Day, on Wealday, the 3rd of Erastus
 
-3. **Game Event**: Competitive Sardine Fishing
+4. **Game Event**: Competitive Sardine Fishing
    - **Party's Team**:  
      - Mei/Nawel: Captured 9 bulk (giant golden sardine + 2 more)  
      - Aiólos/Iu'yuan: Only 4 bulk (struggling catching fish)

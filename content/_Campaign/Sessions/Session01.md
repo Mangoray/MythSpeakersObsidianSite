@@ -38,7 +38,7 @@ tags:
 - [[Mellita]] approaches Mei, and asks about the signing up.
 - [[Sappil]] approaches the party and also talks about signing up. Makes a joke about Mei's height.
 - [[Phel]] interjects with some banter.
-- They enter the building and Cyclops Undyl hands them a form to sign up for the Funeral Games.
+- They enter the building and Cyclops [[Undyl]] hands them a form to sign up for the Funeral Games.
 - Aiólos has a conversation with his Shag, hoping that it'll lure some fishes in the way of the party during the games.
 - Snake headed person with green eyes and a lyre on his back. Looks up at the sky, and we see the tiniest speck of fire.
  
