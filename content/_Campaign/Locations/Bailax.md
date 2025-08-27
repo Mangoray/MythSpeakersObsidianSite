@@ -15,7 +15,7 @@ it's an ancient port city famed for its copper work, dyes, and scribes, all prot
 **Text Tradition** Bailax offers higher level access to written magic; grimoires, scrolls, and other written magical
 items of up to 13th level are available.
 
-**[[Terpsime]]** (bold female human warrior-sage 8) Poet, retired duelist, and leading member of the [[Philosopher Council]]
-**[[Skorgomos]]** (introspective male cyclops fate-priest 8) Leader of the cyclopean seers
-**[[Cymene | Pyre keeper Cymene]]** (outspoken female centaur priest 7) Conservator of sacred fires and speaker for the Bailaxian pantheon.
+**[[Terpsime]]** (bold female human warrior-sage) Poet, retired duelist, and leading member of the [[Philosopher Council]]
+**[[Skorgomos]]** (introspective male cyclops fate-priest) Leader of the cyclopean seers
+**[[Cymene | Pyre keeper Cymene]]** (outspoken female centaur priest) Conservator of sacred fires and speaker for the Bailaxian pantheon.
 
