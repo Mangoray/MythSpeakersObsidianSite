@@ -1,6 +1,8 @@
 ---
 tags:
   - PC
+publish: false
+draft: true
 ---
 # Summary of Aiólos Wavebreaker
 ---
