@@ -17,3 +17,5 @@ _Peachchild Leshy (Ageless Spirit Heritage)_
     → **Kopis Heights:** Seeks memory flashes at hero-god shrines.  
     → **South Slope:** Weekly recharge spot (sun/ocean view).  
     → **Kailean Field:** Joins physical competitions/workouts.
+
+[[Session03]]: explains about her past 'lives' and about inhabiting 'vessels' prepared for Leshy's. Remember being in Bailax alot.

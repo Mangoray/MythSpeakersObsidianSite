@@ -21,3 +21,6 @@ _Whisper Elf scoundrel rogue, foundling, mid-20s_
     → **Bax:** Guild HQ (Rooks), market crowds, Erevos’ practice.  
     → **Countryside:** Where she met Yphani (and found silence boring).  
     → **Phel’s finds:** Where she "sells things that don’t exist."
+
+
+[[Session03]] Offers [[Aiólos Wavebreaker|Aiólos]] to keep an eye out for a certain spear. Aiólos is grateful.

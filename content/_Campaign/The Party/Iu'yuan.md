@@ -20,3 +20,7 @@ _Songbird Strix Polymath Bard (Fledgling Flight)_
     → **Cloudcrag Aerie (Jalmaray cliffs):** Birthplace; home to Tian diaspora.  
     → **Pyre-fowl nests:** Visits with trinket gifts for mated harpies.
 - **Quirks:** Magpie for trinkets (Salquin’s holiday scavenges), loves reading hands-free in bed, _never_ eats poultry.
+
+[[Session03]] Says she's 'not that interesting'. Talks about how she is...'was' part of a nest there, 'Cloud Craig Aerie'. She's the last survivor of her nest. 
+> Before I even came out of my egg,
+I heard my mother sing. And the songs are in my bones.

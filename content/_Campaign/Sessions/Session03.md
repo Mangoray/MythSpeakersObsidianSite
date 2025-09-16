@@ -44,8 +44,8 @@ Talks about the revolution of the deep sea creatures. "We will rue the day!"
 
 4. Fireplace Talk:
 	- [[Nawel]] still doesn't really remember anything yet. Sees himself still a person than a machine. Still proud.
-	- [[Mei]] about her past lives. REmember being in Bailax alot, being.
-	- Aiólos talks about about being chosen from his clan the [[Wavebreaker clan|Wavebreakers]] and looking for the spear of Psomeira that repelled [[Ousmariku]].
+	- [[Mei]] explains about her past 'lives' and about inhabiting 'vessels' prepared for Leshy's. Remember being in Bailax alot.
+	- Aiólos talks about about being chosen from his clan the [[Wavebreaker clan|Wavebreakers]] and looking for the spear of Psomeira that repelled [[Ousmariku]]. Echo offers to help finding what he's looking for, she might know about a few places where one can find antiques.
 	- Iu'yuan: Comes from Jalmaray, part of a nest, 'is not that interesting' cloud crag. Likes writing down things. Not commited.
 
  5. In a Pub on the South Slope in [[Bailax]]
