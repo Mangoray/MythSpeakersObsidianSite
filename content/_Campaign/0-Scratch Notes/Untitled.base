@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.hasTag("session")
 views:
   - type: table
     name: Table
@@ -5,3 +8,7 @@ views:
       and:
         - '!file.path.contains("PF2Data")'
         - '!file.path.contains("ChatGPT_MD")'
+    order:
+      - file.name
+      - game_date
+      - Characters

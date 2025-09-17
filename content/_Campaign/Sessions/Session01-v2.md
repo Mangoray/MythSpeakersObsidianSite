@@ -12,8 +12,9 @@ Characters:
   - Mei
   - Nawel
 date: 2025-08-25
-game_date: 02/07/4725 - 03/07/4725
+game_date: 4725-02-07
 tags:
+  - session
 ---
 
 ## Session 01: The Funeral Games

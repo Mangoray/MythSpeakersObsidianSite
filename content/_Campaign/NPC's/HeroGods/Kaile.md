@@ -1,3 +1,8 @@
+---
+tags:
+  - herogod
+---
+
 ##Kaile
 
 In the Funeral Games, in order to honor the passing of Dintolneon, a relay race was one of the games part of the festival.

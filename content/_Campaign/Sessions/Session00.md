@@ -3,10 +3,11 @@ type: session
 world: Golarion
 campaign: Myth-Speaker
 location:
-Characters: 
+Characters:
 date: 2025-08-18
 golarion-date: 4275-01-01
 tags:
+  - session
 ---
 
 ## Session 00 - Session Zero!

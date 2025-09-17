@@ -4,10 +4,12 @@ world: Golarion
 campaign: Myth-Speaker
 location:
   - Pol-Bailax
+  - Bailax
 Characters:
 date: 2025-09-08
-game_date: 3rd of Erastus 4725
+game_date: 4725-07-03
 tags:
+  - session
 ---
 ### Key Setting
 - **Time**: 3rd of Erastus 4725

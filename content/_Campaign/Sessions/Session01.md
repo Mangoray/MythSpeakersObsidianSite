@@ -7,8 +7,9 @@ location:
   - Bailax
 Characters:
 date: 2025-08-25
-game_date: 02/07/4725 - 03/07/4725
+game_date: 4725/07/02
 tags:
+  - session
 ---
 
 

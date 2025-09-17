@@ -8,7 +8,7 @@ _Peachchild Leshy (Ageless Spirit Heritage)_
 - **Personality:** Anxious, directionless, shy with friends. _Passionate about demigod lore_ (only topic she talks freely on). Acts first, thinks later. Naive, prone to emotional "cactus pricks" when memories surface.
 - **Key Ties:**  
     → **[[Melitta]] (Adoptive Mom):** Raised her; guards her secret past; inherited her love of physical labor.  
-    → **[[Iu’yuan]] (Bard):** Story-bond over hero-god histories; learns writing from her.  
+    → **[[Iu'yuan]] (Bard):** Story-bond over hero-god histories; learns writing from her.  
     → **[[Terpsime]] (Duels):** Fighting partner (duels until blood). Only one who sees her without baggy clothes.  
     → **[[Phel]] (Shipwreck Hunter):** Pushy but respectful; Mei gets emotional when probed on past.  
     → **Gentle Wings (Foe):** Accuses her of "breaking return rules" (unfriendly).  
