@@ -5,7 +5,12 @@ campaign: Myth-Speaker
 location:
   - Pol-Bailax
   - Bailax
-Characters:
+Characters: 
+  - Aiólos
+  - Echo
+  - Iu'Yuan
+  - Mei
+  - Nawel
 date: 2025-08-25
 game_date: 4725/07/02
 tags:

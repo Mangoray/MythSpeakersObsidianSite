@@ -10,8 +10,8 @@ Characters:
   - Iu'Yuan
   - Mei
   - Nawel
-date: {{date}}
-game_date:
+date: 2025-09-29
+game_date: 4725-07-05
 tags:
   - session
 ---
@@ -19,7 +19,7 @@ tags:
 - **Time**: 2nd of Erastus - 3rd of Erastus 4725
 - **Location**: Bailax city-state (coastal)
 - **Event**: Funeral Games honoring Dintolneon (hero-god)
-## Session [X]: [Event]
+## Session  06: [Event]
 ### Key NPCs
 - [Name]: [Short role] (Link to NPC note)
 

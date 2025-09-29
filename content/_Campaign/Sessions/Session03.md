@@ -5,7 +5,12 @@ campaign: Myth-Speaker
 location:
   - Pol-Bailax
   - Bailax
-Characters:
+Characters: 
+  - Aiólos
+  - Echo
+  - Iu'Yuan
+  - Mei
+  - Nawel
 date: 2025-09-08
 game_date: 4725-07-03
 tags:
@@ -36,7 +41,7 @@ Talks about the revolution of the deep sea creatures. "We will rue the day!"
 
 3. At Terpsime's 
 - Amphora Roll will be the next event, on the day after tomorrow, due to some bureaucratic issues.
-- See mentions an issue with a copper forge. Aupyphory the supervisor has some more information.
+- See mentions an issue with a copper forge. Aupyphory the supervisor has some more information. ^5v20pc
 	- Forges not igniting properly
 	- material (iron) not behaving properly.
 - [[Terpsime]] talks/ask about the the teams, and asks about the relations toward one another.

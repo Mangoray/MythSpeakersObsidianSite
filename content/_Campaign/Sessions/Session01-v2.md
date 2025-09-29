@@ -74,7 +74,7 @@ tags:
 
 The Next Day, on Wealday, the 3rd of Erastus
 
-4. **Game Event**: Competitive Sardine Fishing
+4. **Game Event**: Competitive Sardine Fishing ^4321
    - **Party's Team**:  
      - Mei/Nawel: Captured 9 bulk (giant golden sardine + 2 more)  
      - Aiólos/Iu'yuan: Only 4 bulk (struggling catching fish)

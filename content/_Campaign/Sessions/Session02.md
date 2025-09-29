@@ -5,7 +5,12 @@ campaign: Myth-Speaker
 location:
   - Pol-Bailax
   - Bailax
-Characters:
+Characters: 
+  - Aiólos
+  - Echo
+  - Iu'Yuan
+  - Mei
+  - Nawel
 date: 2025-09-01
 game_date: 4725-07-03
 tags:
@@ -15,7 +20,7 @@ tags:
 - **Time**: Oathday, 3rd of Erastus 4725
 - **Location**: Bailax city-state (coastal)
 - **Event**: Funeral Games honoring Dintolneon (hero-god)
-## Session [02]: [The Funeral Games - Pt. 2]
+## Session 02: The Funeral Games - Pt. 2
 ### Key NPCs
 - [Name]: [Short role] (Link to NPC note)
 
@@ -36,7 +41,7 @@ tags:
 	- [[Iu'yuan]] visits the Pearl chasers with some food to converse. Puts in a good word for Aiolos, but knocks herself down. [[Sappil]] gives some encouraging words, and has a tip for the running games if you know the city well.
 	- [[Aki]] confronts [[Echo]], and keeps an eye on Echo.
 
-3. **The Relay**
+3. **The Relay** ^4322
 	- [[Terpsime]] joins the party, informs of the relay, To honor the hero-god [[Kaile]]
 	- [[Undyl]] tells the teams to prepare
 	- Talks of the first murder:
