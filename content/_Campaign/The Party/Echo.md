@@ -10,7 +10,7 @@ _Whisper Elf scoundrel rogue, foundling, mid-20s_
 - **Personality:** Talkative, capricious, loyal _only_ to select friends, disinterested in others.
 - **Key Ties:**  
     → **Nox (Rooks guild leader):** Adoptive "father," reluctantly tolerates her antics (her presence boosts guild success).  
-    → **Erevos (doctor):** Briefly worked as a nurse; left when he offered "proper" career path.  
+    → **[[Erevos]] (doctor):** Briefly worked as a nurse; left when he offered "proper" career path.  
     → **[[Yphani]] (cyclops):** Sheltered her after she startled her (she "reminded" Yphani why sheep are better company).  
     → **[[Rhetienn]] (centaur):** Sold spirits for a couple of months; left with "a few expensive bottles".
     → **[[Phel]]:** Helps sell hard-to-sell finds; Phel _tries_ not to like her.  

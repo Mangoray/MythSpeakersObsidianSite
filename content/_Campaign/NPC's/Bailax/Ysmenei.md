@@ -1,0 +1,1 @@
+Captain of the ship The TideHunter, which has seen a lot of action. Different colored boards and wood, patched up sails, 

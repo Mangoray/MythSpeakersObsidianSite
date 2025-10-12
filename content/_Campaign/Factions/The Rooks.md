@@ -1,0 +1,1 @@
+Mentioned in [[Session06]] , [[Echo]] apparently owes them money. [[Nox]] seems to be their contact.

@@ -34,7 +34,7 @@ tags:
 	- [[Echo]] and [[Iu'yuan]] 'sabotage' the mussels. making sure that both restaurants are humbled as the server of the other restaurant apologizes as well.
 
 2. Back at [[Terpsime]]:
-	- [[Iu'yuan]] does something in her room. part conversation is heard : and then the figure turns/vanish...apparently recalling the events of the vision. She was using Phantasmal Minion to speak with her mother.
+	- From[[Iu'yuan|Iu'yuan's]] room, a blue light is shimmering from under the door frame. Aiólos approches her room an d pushes the door slightly ajar. Part of a conversation is heard: and then the figure turns/vanish...apparently recalling the events of the vision. She was using Phantasmal Minion to speak with an image her mother.
 
 3. Starday, 5th of Erastus 4725 - Amphora Roll Race.  ^aw2w8v
 	- In the South Slope area of [[Bailax]] at the top of a hill, the competitors have gathered. Large earthenware vases filled with water are lined up at the starting area. [[Undyl]] explains the game. Each team will roll one Amphora per team down the hill, without breaking/losing it. 2 people per team will steer the actual amphora, the rest will guide them, preventing any hindrances on the way.

@@ -1,0 +1,1 @@
+An archipelago to the west of Bailax. On Moonday, 7th of Erastus [[Session07#^ebdsm5 | a meteor]] fell from the sky crashed into the island.
